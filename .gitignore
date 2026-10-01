@@ -1,9 +1,0 @@
-# Obsidian state that is specific to a device
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
-.obsidian/cache/
-
-# Operating-system files
-.DS_Store
-Thumbs.db
-desktop.ini
